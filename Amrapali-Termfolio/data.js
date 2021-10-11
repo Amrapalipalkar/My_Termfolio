@@ -24,11 +24,11 @@ var data = {
       {name: 'Portfolio', value: ''}
     ],
     projects: [
-      {name: 'Mentor Assinging Portal', value: 'https://github.com/ahsankhan26/Book-Blog'},
-      {name: 'MI Team-curd Website', value: 'https://github.com/ahsankhan26/Bomberman-Replica'},
-      {name: 'Live covid-19 Tracker', value: 'https://github.com/ahsankhan26/Whatsapp-Chat-Parser'},
-      {name: 'Speechly Expense Tracker', value: 'https://github.com/ahsankhan26/Laser-Data-Transmission'},
-      {name: 'Reacipe Search App', value: 'https://github.com/ahsankhan26/Color-Guessing-Game'}
+      {name: 'Mentor Assinging Portal', value: ''},
+      {name: 'MI Team-curd Website', value: ''},
+      {name: 'Live covid-19 Tracker', value: ''},
+      {name: 'Speechly Expense Tracker', value: ''},
+      {name: 'Reacipe Search App', value: ''}
     ],
     resume: 'https://drive.google.com/file/d/1ogs5nz44FeVuwS_ZFAkYVxMhUFi50Kxt/view?usp=sharing',
     contact: [
