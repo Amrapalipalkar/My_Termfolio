@@ -21,7 +21,7 @@ var data = {
 
     ],
     portfolio: [
-      {name: 'Portfolio', value: 'https://ahsankhan.me'}
+      {name: 'Portfolio', value: ''}
     ],
     projects: [
       {name: 'Mentor Assinging Portal', value: 'https://github.com/ahsankhan26/Book-Blog'},
