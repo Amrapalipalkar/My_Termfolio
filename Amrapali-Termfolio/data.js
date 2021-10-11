@@ -2,8 +2,8 @@ var data = {
     
     bio: [
       {name: 'Name', value: 'Amrapali Hiru Palkar'},
-      {name: 'Email', value: 'amrapalipalkar24@gmail.com'},
-      {name: 'Phone', value: '7841834650'},
+      {name: 'B.Tech', value: 'Information Technology'},
+      {name: 'Hobby' , value: 'Reading', 'Writting', 'Coding', 'Travelling'},
       {name: 'Country', value: 'India'},
       {name: 'City', value: 'Mumbai'}
     ],
@@ -12,7 +12,10 @@ var data = {
     ],
     
     skills: [
-
+        {name: 'Frontend' , value: 'ReactJS' 'HTML' , 'CSS' , 'Javascript' , 'Bootstap'},
+        {name: 'Backend' , value: 'c' , 'NodeJS' , 'ExpressJS'},
+        {name: 'Database' , value: 'MongoDB'},
+        {name: 'Tools' , value: 'Github' , 'VScode'}
     ],
     certificates: [
 
@@ -21,16 +24,15 @@ var data = {
       {name: 'Portfolio', value: 'https://ahsankhan.me'}
     ],
     projects: [
-      {name: 'Book Blog', value: 'https://github.com/ahsankhan26/Book-Blog'},
-      {name: 'Bomberman Replica', value: 'https://github.com/ahsankhan26/Bomberman-Replica'},
-      {name: 'WhatsApp Chat Parser', value: 'https://github.com/ahsankhan26/Whatsapp-Chat-Parser'},
-      {name: 'Laser Data Transmission', value: 'https://github.com/ahsankhan26/Laser-Data-Transmission'},
-      {name: 'Color Guessing Game', value: 'https://github.com/ahsankhan26/Color-Guessing-Game'},
-      {name: 'GPA Calculator', value: 'https://github.com/ahsankhan26/gpa-calculator'},
-      {name: 'Hello World but unnecessarily complex', value: 'https://github.com/ahsankhan26/hello-world'}
+      {name: 'Mentor Assinging Portal', value: 'https://github.com/ahsankhan26/Book-Blog'},
+      {name: 'MI Team-curd Website', value: 'https://github.com/ahsankhan26/Bomberman-Replica'},
+      {name: 'Live covid-19 Tracker', value: 'https://github.com/ahsankhan26/Whatsapp-Chat-Parser'},
+      {name: 'Speechly Expense Tracker', value: 'https://github.com/ahsankhan26/Laser-Data-Transmission'},
+      {name: 'Reacipe Search App', value: 'https://github.com/ahsankhan26/Color-Guessing-Game'}
     ],
-    resume: 'Ahsan_Khan_CV.pdf',
+    resume: 'https://drive.google.com/file/d/1ogs5nz44FeVuwS_ZFAkYVxMhUFi50Kxt/view?usp=sharing',
     contact: [
+      {name: 'Email', value: 'amrapalipalkar24@gmail.com'},
       {name: 'mobile', value: '7841834650'},
       {name: 'LinkedIn', value: 'https://www.linkedin.com/in/amrapali-palkar-030558170/'},
       {name: 'GitHub', value: 'https://github.com/Amrapalipalkar'},
