@@ -3,6 +3,7 @@ var data = {
   bio: [
     {name: 'Name', value: 'Amrapali Hiru Palkar'},
     {name: 'B.Tech', value: 'Information Technology'},
+    {name: 'Email', value: 'amrapalipalkar24@gmail.com'},
     {name: 'Hobby' , value: 'Reading Writting Coding Travelling'},
     {name: 'Country', value: 'India'},
     {name: 'City', value: 'Mumbai'}
@@ -37,7 +38,6 @@ var data = {
   ],
   resume: 'resume.pdf',
   contact: [
-    {name: '<i class="fa fa-mail"></b>', value: 'amrapalipalkar24@gmail.com'},
     {name: '<i class="fa fa-mobile"></b>', value: '7841834650'},
     {name: '<i class="fa fa-linkedin"></b>', value: 'https://www.linkedin.com/in/amrapali-palkar-030558170/'},
     {name: '<i class="fa fa-github"></b>', value: 'https://github.com/Amrapalipalkar'},
