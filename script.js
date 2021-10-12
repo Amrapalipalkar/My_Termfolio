@@ -93,7 +93,7 @@ function commandGithub() {
 }
 
 function commandResume() {
-    terminalBody.innerHTML += `<br><a href=assets/${data.resume}>Resume</a><br>`;
+    terminalBody.innerHTML += `<br><a href=resume.pdf/${data.resume} target="_blank">Resume</a><br>`;
 }
 
 
