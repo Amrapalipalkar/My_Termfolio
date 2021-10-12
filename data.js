@@ -8,7 +8,7 @@ var data = {
     {name: 'City', value: 'Mumbai'}
   ],
   github: [
-    {name: 'GitHub', value: 'Amrapalipalkar'}
+    {name: 'GitHub', value: 'My_Github'}
   ],
   
   skills: [
@@ -21,14 +21,14 @@ var data = {
 
   ],
   portfolio: [
-    {name: 'Portfolio', value: ''}
+    {name: 'Portfolio', value: 'My_Portfolio'}
   ],
   projects: [
-    {name: 'Mentor Assinging Portal', value: ''},
-    {name: 'MI Team-curd Website', value: ''},
-    {name: 'Live covid-19 Tracker', value: ''},
-    {name: 'Speechly Expense Tracker', value: ''},
-    {name: 'Reacipe Search App', value: ''}
+    {name: 'Mentor Assinging Portal', value: 'https://amrapali-palkar-mentor-assigning-portal.netlify.app/'},
+    {name: 'MI Team-curd Website', value: 'https://amrapali-palkar-ipl-team-curd-app.netlify.app/'},
+    {name: 'Live covid-19 Tracker', value: 'https://amrapali-palkar-live-covid-19-tracker.netlify.app/'},
+    {name: 'Speechly Expense Tracker', value: 'https://amrapali-palkar-speechly-tracker.netlify.app/'},
+    {name: 'Reacipe Search App', value: 'https://amrapali-palkar-search-for-recipe.netlify.app/'}
   ],
   resume: 'resume.pdf',
   contact: [
