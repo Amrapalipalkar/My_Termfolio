@@ -3,7 +3,7 @@ var data = {
   bio: [
     {name: 'Name', value: 'Amrapali Hiru Palkar'},
     {name: 'B.Tech', value: 'Information Technology'},
-    // {name: 'Hobby' , value: 'Reading', 'Writting', 'Coding', 'Travelling'},
+    {name: 'Hobby' , value: 'Reading Writting Coding Travelling'},
     {name: 'Country', value: 'India'},
     {name: 'City', value: 'Mumbai'}
   ],
@@ -30,7 +30,7 @@ var data = {
     {name: 'Speechly Expense Tracker', value: ''},
     {name: 'Reacipe Search App', value: ''}
   ],
-  resume: 'https://drive.google.com/file/d/1ogs5nz44FeVuwS_ZFAkYVxMhUFi50Kxt/view?usp=sharing',
+  resume: 'resume',
   contact: [
     {name: 'Email', value: 'amrapalipalkar24@gmail.com'},
     {name: 'mobile', value: '7841834650'},
