@@ -59,7 +59,7 @@ function checkCommand(inputCommand){
         else if(command === 'github'){ commandGithub(command)}
         else if(command === 'start'){ commandHelp();}
         else if(command === 'resume'){ commandResume();}
-        else if(command === 'portfolio'){ commandPortfolio();}
+        //else if(command === 'portfolio'){ commandPortfolio();}
         else if(commandList.includes(command)){ executeCommand(command);}
         else{
             terminalBody.innerHTML +=  '<br>' + inputCommand + ' is not recognized as a command, Try \"start"\"<br>';
@@ -97,8 +97,8 @@ function commandResume() {
     terminalBody.innerHTML += `<br><a href="resume.pdf"/${data.resume} target="_blank">Resume</a><br>`;
 }
 
-function commandPortfolio() {
-    terminalBody.innerHTML += `<br><a href=""/${data.portfolio} tartget="_blank">Portfolio</a><br>`;
+// function commandPortfolio() {
+//     terminalBody.innerHTML += `<br><a href=""/${data.portfolio} tartget="_blank">Portfolio</a><br>`;
 
 
 // function commandEcho(inputCommand) {
