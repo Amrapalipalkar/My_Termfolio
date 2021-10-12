@@ -8,7 +8,7 @@ var data = {
     {name: 'City', value: 'Mumbai'}
   ],
   github: [
-    {name: 'GitHub', value: 'My_Github'}
+    {name: 'GitHub', value: 'my_Github'}
   ],
   
   skills: [
@@ -26,7 +26,7 @@ var data = {
 
   ],
   portfolio: [
-    {name: 'Portfolio', value: 'My_Portfolio'}
+    {name: 'Portfolio', value: 'my_Portfolio'}
   ],
   projects: [
     {name: 'Mentor Assinging Portal', value: 'https://amrapali-palkar-mentor-assigning-portal.netlify.app/'},
