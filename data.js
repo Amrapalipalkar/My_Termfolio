@@ -18,6 +18,11 @@ var data = {
       {name: 'Tools' , value: 'Github  VScode'}
   ],
   certificates: [
+      {name: 'Full Skact Development' , value: 'https://drive.google.com/file/d/1QQVbX0n3Fxpg_V8LnrU-EM3XsXOhoa4f/view?usp=sharing'},
+      {name: 'JavaScript' , value: 'https://drive.google.com/file/d/1DjbMRNN44XLTwxpdcxwd0e5_rz7lA73s/view?usp=sharing'},
+      {name: 'Youth Parliament' , value: 'https://drive.google.com/file/d/1E81b8xzRz_x24DgRfpFjoXHpfsnnxdqU/view?usp=sharing'},
+      {name: 'Literature Secretary', value: 'https://drive.google.com/file/d/1E12JQPKBTzXEiHNw_ZWnLvBncdNW-Xdo/view?usp=sharing'},
+      {name: 'The Guinness Event', value: 'https://drive.google.com/file/d/1mKjoZDOJi_7a3iM9z7twLXe8pPE6Fd95/view?usp=sharing'}
 
   ],
   portfolio: [
