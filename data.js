@@ -37,7 +37,7 @@ var data = {
   ],
   resume: 'resume.pdf',
   contact: [
-    {name: '<i class="fa fa-email"></b>', value: 'amrapalipalkar24@gmail.com'},
+    {name: '<i class="fa fa-mail"></b>', value: 'amrapalipalkar24@gmail.com'},
     {name: '<i class="fa fa-mobile"></b>', value: '7841834650'},
     {name: '<i class="fa fa-linkedin"></b>', value: 'https://www.linkedin.com/in/amrapali-palkar-030558170/'},
     {name: '<i class="fa fa-github"></b>', value: 'https://github.com/Amrapalipalkar'},
