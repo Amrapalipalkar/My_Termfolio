@@ -30,7 +30,7 @@ var data = {
     {name: 'Speechly Expense Tracker', value: ''},
     {name: 'Reacipe Search App', value: ''}
   ],
-  resume: 'resume',
+  resume: 'resume.pdf',
   contact: [
     {name: 'Email', value: 'amrapalipalkar24@gmail.com'},
     {name: 'mobile', value: '7841834650'},
