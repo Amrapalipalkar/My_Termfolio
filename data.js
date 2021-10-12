@@ -39,7 +39,7 @@ var data = {
   contact: [
     {name: 'Email', value: 'amrapalipalkar24@gmail.com'},
     {name: 'mobile', value: '7841834650'},
-    {name: 'LinkedIn', value: 'https://www.linkedin.com/in/amrapali-palkar-030558170/'},
+    {name: '<i class="fa fa-github">', value: 'https://www.linkedin.com/in/amrapali-palkar-030558170/'},
     {name: 'GitHub', value: 'https://github.com/Amrapalipalkar'},
     {name: 'Instagram', value: 'https://instagram/imamrapali'}
   ]
