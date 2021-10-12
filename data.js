@@ -37,10 +37,10 @@ var data = {
   ],
   resume: 'resume.pdf',
   contact: [
-    {name: 'Email', value: 'amrapalipalkar24@gmail.com'},
-    {name: 'mobile', value: '7841834650'},
-    {name: '<i class="fa fa-github">', value: 'https://www.linkedin.com/in/amrapali-palkar-030558170/'},
-    {name: 'GitHub', value: 'https://github.com/Amrapalipalkar'},
-    {name: 'Instagram', value: 'https://instagram/imamrapali'}
+    {name: '<i class="fa fa-email"></b>', value: 'amrapalipalkar24@gmail.com'},
+    {name: '<i class="fa fa-mobile"></b>', value: '7841834650'},
+    {name: '<i class="fa fa-linkedin"></b>', value: 'https://www.linkedin.com/in/amrapali-palkar-030558170/'},
+    {name: '<i class="fa fa-github"></b>', value: 'https://github.com/Amrapalipalkar'},
+    {name: '<i class="fa fa-instagram"></b>', value: 'https://instagram/imamrapali'}
   ]
 }
