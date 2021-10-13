@@ -27,7 +27,7 @@ var data = {
 
   ],
   portfolio: [
-    {name: 'Portfolio', value: 'my_Portfolio'}
+    {name: 'Portfolio', value: 'https://amrapali-palkar-portfolio.netlify.app/'}
   ],
   projects: [
     {name: 'Mentor Assinging Portal', value: 'https://amrapali-palkar-mentor-assigning-portal.netlify.app/'},
