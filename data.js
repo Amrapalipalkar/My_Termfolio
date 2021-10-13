@@ -13,10 +13,10 @@ var data = {
   ],
   
   skills: [
-      {name: 'Frontend' , value: 'ReactJS HTML CSS Javascript Bootstap'},
-      {name: 'Backend' , value: 'c NodeJS ExpressJS'},
-      {name: 'Database' , value: 'MongoDB'},
-      {name: 'Tools' , value: 'Github  VScode'}
+      {name: 'Frontend'  , value: 'ReactJS HTML CSS Javascript Bootstap'},
+      {name: 'Backend'   , value: 'C NodeJS ExpressJS'},
+      {name: 'Database'  , value: 'MongoDB'},
+      {name: 'Tools'     , value: 'Github  VScode'}
   ],
   certificates: [
       {name: 'Full Skact Development' , value: 'https://drive.google.com/file/d/1QQVbX0n3Fxpg_V8LnrU-EM3XsXOhoa4f/view?usp=sharing'},
